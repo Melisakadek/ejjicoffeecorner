@@ -1,0 +1,192 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+body{
+	font-family: arial;
+}
+	
+div{
+	box-sizing: border-box;
+} 
+
+.navbar{
+	width: 100%;
+	background-color: #C8AE7D;
+	display: flex;
+	align-items: center;
+	justify-content: space-around;
+}
+
+.logo{
+	font-size: 30px;
+	font-weight: bold;
+	color: #113946;
+	padding: 10px 5px 5px 30px;
+}
+
+.logo span.dev-color{
+	color: #113946;
+}
+.nav-menu{
+	align-items: center;
+	list-style-type: none;
+	display: flex;
+	justify-content: space-around;
+	padding: 10px 0px;
+	width: 40%;
+}
+.nav-menu li a {
+	font-size: 18px;
+	color: black;
+	text-decoration: none;
+	font-family: merriweather;
+
+}
+.nav-menu li a:hover {
+	font-size: 20px;
+	color: black;
+	text-decoration:underline;
+	transition: 0.4s;
+}
+
+.gebrakan {
+	font-family: merriweather;
+	font-size: 250%;
+	text-align: left;
+	padding: 250px 0px 250px 150px;
+	background-image: url(foto/bluer.jpg);
+	background-size: cover;
+	color: white;
+}
+.menu {
+	font-family: PT serif;
+	font-size: 180%;
+	text-align: center;
+	background-color: #B0926A;
+	padding: 5px 0px 0px 5px;
+}
+.img{
+	margin: auto;
+	padding: 15px 20px 20px 10px;
+	text-align: center;
+	background-color: #B0926A;
+}
+.img1{
+	margin: auto;
+	padding: 5px 150px 10px 150px;
+	text-align: center;
+	background-color: #B0926A;
+}
+
+.judul{
+	font-size: 20px;
+	font-family: varela round;
+
+}
+.logo2{
+	height: 300px;
+	width: 300px;
+	text-align: left;
+	padding: 0px 0px 150px 20px;
+}
+
+.ig{
+	text-align: right;
+	padding: 50px 50px 60px 80px;
+
+}
+
+.wa{
+	text-align: right;
+	padding: 0px 250px;
+}
+
+.kontak{
+	text-align: left;
+	font-family: merriweather;
+	font-size: 30px;
+	padding: 0px 0px 10px 700px;
+}
+
+.isi{
+	text-align: center;
+	padding: 0px 350px 0px 700px;
+	font-size: 20px;
+}
+
+.bungkus{
+	background-color: #BCA37F;
+	width: 500px;
+	text-align: left;
+	height: 0px;
+	padding: 0px 0px 0px 100px;
+}
+
+.bungkus2{
+	background-color: #BCA37F;
+	padding: 20px 0px;
+	
+}
+.bungkus{
+	background-color: #BCA37F;
+}
+
+.p1{
+	padding: 5px 0px 15px 0px;
+	text-align: left;
+}
+.p2{
+	padding: 10px 0px 15px 0px;
+	text-align: left;
+}
+.p3{
+	padding: 10px 0px 15px 0px;
+	text-align: left;
+}
+
+.us{
+	text-align: right;
+	padding: 10px 230px 0px;
+	font-family: merriweather;
+}
+
+.ig{
+	padding: 10px 100px 0px;
+}
+
+.wa{
+	padding: 10px 100px 0px;
+}
+
+
+.potos{
+	background-image: url(foto/bgkopi.jpg);
+	padding: 50px 100px 15px 100px;
+
+}
+
+.pe1{
+	font-family: merriweathers;
+	padding: 0px 0px 15px 30px;
+	font-size: 50px;
+	text-align: left;
+}
+
+.poto{
+	margin: auto;
+	padding: 5px 0px 10px 30px;
+}
+.poto1{
+	margin: auto;
+	padding: 5px 0px 10px 180px;
+}
+.poto2{
+	margin: auto;
+	padding: 5px 0px 10px 360px;
+}
+.poto3{
+	margin: auto;
+	padding: 5px 0px 10px 540px;
+}
+
